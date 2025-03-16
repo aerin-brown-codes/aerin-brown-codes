@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-- 😄 Pronouns: she/her
 - 🎓 I'm currently attending McGill University as a Software Engineering student with a Schulich Leader Scholarship. I have a 3.96/4.0 CGPA and am on the Dean's List.
 - 🔭 I'm Software Lead of the McGill Robotics Mars rover project! My recent work has focused primarily on developing robust controls for our new steering system and incorporating my inverse kinematics algorithm into our arm controls.
 - 💼 I worked at Tolko Industries in summer 2024 as an IT Student, helping to integrate Dynamics 365 F&O into 20+ applications with a team of 6.
